@@ -20,7 +20,7 @@ Clone this repo, and run `npm install` from inside it. The repo already includes
 3. Add a `balance` property to `state`, and set to 0 initially, in the Account component.
 
 
-4. Create an event listener that stores the current value in the input to state. (**Hint**: this code will be similar to what you did in the password validator lab)
+4. Create an event listener that stores the current value in the input to state. (**Hint**: this code will be similar to what you did in the password validator code along. You will need two variables in state, one to store the current balance, one to store what is typed in the input box)
 
 5. When the `Deposit` button is clicked, you should add the amount entered in the text field to the balance
 
